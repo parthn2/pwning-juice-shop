@@ -2,7 +2,7 @@ site:
   title: Pwning OWASP Juice Shop
 content:
   sources:
-  - url: .
+  - url: 
     start_path: ./
     branches: [antora-migration, 1.1]
 
